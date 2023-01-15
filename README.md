@@ -4,7 +4,7 @@
 ## About this Specialization
 This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own applications for data retrieval, processing, and visualization.
 
- ## Courses In Specilisation
+ ## Courses In Specilization
  1. Programming for EveryBody -Getting Started with Python  
  2. Python Data Structures
  3. Python Access Wen Data
